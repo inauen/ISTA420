@@ -1,0 +1,4 @@
+[submodule "ISTA420"]
+	path = ISTA420
+	url = https://github.com/inauen/ISTA420
+	branch = master
